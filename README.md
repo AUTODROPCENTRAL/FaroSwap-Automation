@@ -118,16 +118,6 @@ Bot akan:
 
 ---
 
-## ⚠️ Penafian
-
-Bot ini dibuat untuk **tujuan edukasi** dan **otomatisasi testnet**.
-
-* Gunakan **dengan risiko sendiri**.
-* Jangan gunakan private key dari dompet utama atau yang menyimpan aset penting.
-* Kami **tidak bertanggung jawab** atas kehilangan dana, penyalahgunaan, atau kerusakan sistem yang terjadi akibat penggunaan bot ini.
-
----
-
 Dibuat dengan ❤️ oleh [AUTODROPCENTRAL](https://github.com/AUTODROPCENTRAL)
 
 
