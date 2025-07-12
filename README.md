@@ -33,6 +33,10 @@ Dirancang untuk mengotomatisasi berbagai tugas harian seperti **Swap**, **Add Li
 - **Siklus 24 Jam**  
   Setelah seluruh akun selesai diproses, bot akan menunggu 24 jam sebelum mengulang.
 
+- **Minting NFT**
+  Mint 2 Nft Original And FaroSwap di
+  `minting.js`
+
 ---
 
 ## ⚙️ Pengaturan & Instalasi
